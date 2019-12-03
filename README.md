@@ -1,2 +1,2 @@
 # SVM-
-关于SVM多分类器的MATLAB实现
+SVM多分类器的实现
